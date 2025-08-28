@@ -1,9 +1,9 @@
 ---
 mode: agent
-description: 'context7を使用して下さい'
+description: 'context7 MCP Serverを使用してドキュメントに基づいた回答を生成します'
 ---
 
-context 7を使用して下さい
-use context7
+# context7 を使用します
 
-技術スタックの指定がない場合、[copilot.instructions.md](../copilot-instructions.md)の**技術スタック**を参照して下さい
+context7 を使用して下さい
+use context7
