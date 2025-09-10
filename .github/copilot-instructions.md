@@ -1,6 +1,6 @@
 # 全てのプロンプトでこのファイル内容を参照して下さい
 
-# Prohibited actions
+## Prohibited actions
 - `rm`コマンドの実行禁止。ファイルを削除する操作を伴う場合には必ず事前に提案すること
 
 ## Basic Rules
