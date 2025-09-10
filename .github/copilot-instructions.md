@@ -28,6 +28,8 @@
 
 ## MCP Server の利用順守 / Use of MCP Server
 
+適切なタイミングで、積極的にMCP Serverを呼び出して使用してください
+
 ### Context7 MCP
 
 - 使用できる状況では常に Context7 を使用し、常に最新のドキュメントに基づいて実装をしてください。use context7
